@@ -2,7 +2,7 @@
   text-align: center;
   color:lavenderblush;
   background: url(https://images.pexels.com/photos/29675/pexels-photo-29675.jpg?w=940&h=650&auto=compress&cs=tinysrgb);
-  background-size: 99% 116%;
+  background-size: 99% 110%;
    background-repeat: no-repeat;
 }
 #header img{
@@ -12,7 +12,7 @@
   margin: 1px;
 }
 #header i{
-  font-size: 30px;
+  font-size: 20px;
 }
 
 #header i:hover{
@@ -22,7 +22,7 @@
 #header h2{
   margin-top: 6%;
   font-family: 'Raleway', sans-serif;
-  font-size: 612%;
+  font-size: 600%;
 }
 #header p{
   font-size: 35px;
@@ -33,7 +33,7 @@
   border: 3px solid white ; display:inline-block; padding: 4px 6px 4px 5px;   margin-bottom: 30px; border-radius:50%
 }
 .decorline{
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .line{
@@ -49,25 +49,25 @@ margin-bottom: 14px;
 }
 #about h3{
     margin-top: 4%;
-  font-size:370%;
+  font-size:350%;
   font-family: 'Raleway', sans-serif;
 }
 #about p{
   margin-top: 1%;
   font-family: 'Raleway', sans-serif;
-  font-size: 150%;
+  font-size: 120%;
   text-align: center;
 }
 #about img{
-  width: 307px;
-  height: 280px;
+  width: 300px;
+  height: 250px;
 }
 #about img:hover{
-  opacity: 0.7;
+  opacity: 0.5;
   border: 2px double grey;
 }
 .aboutdeco{
-  font-size: 50px;
+  font-size: 40px;
 }
 .aboutline {
   width: 9%;
@@ -82,7 +82,7 @@ margin-bottom: 14px;
 }
 #whatwedo h3{
   margin-top: 4%;
-font-size:375%;
+font-size:350%;
 font-family: 'Raleway', sans-serif;
 }
 #whatwedo2{
@@ -111,21 +111,21 @@ font-family: 'Raleway', sans-serif;
 
 #famouswork h3{
   margin-top: 4%;
-font-size:375%;
+font-size:350%;
 font-family: 'Raleway', sans-serif;
 
 }
 #famouswork p{
   margin-top: 1%;
   font-family: 'Raleway', sans-serif;
-  font-size: 157%;
+  font-size: 150%;
   text-align: center;
 }
 #freecode1  h3 small {
-    font-size: 93%;
+    font-size: 85%;
 }
 #freecode1 h3{
-  font-size: 173%;
+  font-size: 170%;
   font-weight: bold;
 }
 #freecode1 p{
@@ -133,8 +133,8 @@ font-family: 'Raleway', sans-serif;
   text-align: center;
 }
 #famouswork img{
-  width: 357px;
-  height: 299px;
+  width: 350px;
+  height: 280px;
 }
 #famouswork img:hover{
   opacity: 0.7;
@@ -157,13 +157,13 @@ font-size: 50px;
 }
 #peoplethink h3{
   margin-top: 4%;
-  font-size:371%;
+  font-size:350%;
   font-family: 'Raleway', sans-serif;
 }
 #peoplethink p{
   margin-top: 1%;
   font-family: 'Raleway', sans-serif;
-  font-size: 200%;
+  font-size: 150%;
   text-align: center;
 }
 #tooglebuttons {
@@ -192,13 +192,13 @@ font-size: 50px;
 }
 #teammembers h3{
   margin-top: 4%;
-  font-size:371%;
+  font-size:250%;
   font-family: 'Raleway', sans-serif;
 }
 #teammembers p{
   margin-top: 1%;
   font-family: 'Raleway', sans-serif;
-  font-size: 146%;
+  font-size: 130%;
   text-align: center;
 }
 #teammembers img:hover{
@@ -210,7 +210,7 @@ font-size: 50px;
 #teampic img{
   background: none repeat;
   height: auto;
-  width: 120px;
+  width: 130px;
   margin: 0 auto;
   border-radius: 50%;
   border: 3px solid #c5a47e;
@@ -230,12 +230,12 @@ font-size: 50px;
   text-align: center;
 }
 #lie h3{
-  font-size: 370%;
+  font-size: 250%;
 text-align: center;
   font-family: 'Raleway', sans-serif;
 }
 #lie h4{
-  font-size: 220%;
+  font-size: 200%;
 text-align: center;
   font-family: 'Raleway', sans-serif;
 
@@ -243,11 +243,11 @@ text-align: center;
 #lie p{
   margin-top: 0%;
   font-family: 'Raleway', sans-serif;
-  font-size: 230%;
+  font-size: 150%;
   text-align: center;
 }
 .lieline{
-font-size: 50px;
+font-size: 40px;
 }
 .lieline1 {
   width: 7%;
@@ -258,18 +258,18 @@ font-size: 50px;
 }
 #map{
    width: 100%;
-  height: 581px;
+  height: 500px;
    frameborder:0
     position: relative;
-    height: 579px;
+    height: 500px;
     z-index: 3;
 }
 .contactus{
   text-align: center;
   border: 2px double grey;
   position: absolute;
-  height: 393px;
-  width: 344px;
+  height: 350px;
+  width: 300px;
   background-color: rgb(223, 223, 223);
   z-index: 4;
   padding: 10px;
@@ -292,15 +292,15 @@ border-top: 4px solid grey;
 }
 #map{
   width: 100%;
-  height: 581px;
+  height: 500px;
 }
 
 
 /*styling for small devices...*/
 @media (min-width:414px) and (max-width:736px) {
 .navbar-header{
-    margin-right: 33px;
-      margin-left: -58px;
+    margin-right: 30px;
+      margin-left: -50px;
   }
   .navbar-brand{
     float: left;
@@ -316,7 +316,7 @@ border-top: 4px solid grey;
   #header {
        text-align: center;
       color: lavenderblush;
-      background: url(http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/REGKTe?ver=e6d0);
+      background: url(https://images.pexels.com/photos/29675/pexels-photo-29675.jpg?w=940&h=650&auto=compress&cs=tinysrgb);
       background-size: 103% 113%;
       background-repeat: no-repeat;
       width: 100%;
